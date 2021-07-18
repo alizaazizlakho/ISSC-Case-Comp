@@ -7,7 +7,7 @@ library(ggthemes)
 nbhoods_shape = readRDS("data/neighbourhood_shapefile.Rds") %>% 
   sf::st_as_sf()
 
-stops = read_csv("opendata_ttc_schedules/stops.txt")
+stops = read_csv("data/stops.txt")
 
 nbhoods_shape %>%
   ggplot() +

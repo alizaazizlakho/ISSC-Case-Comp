@@ -119,7 +119,7 @@ Sample size: The sample size in our survey design is small, and a larger sample 
 
 ## Meet Us
 
-* Aliza Aziz Lakho
-* Janhavi Agarwal
-* Chloris (Xiaoke) Jiang
-* Jośe Casas
+* Aliza Aziz Lakho (https://www.linkedin.com/in/aliza-aziz-lakho/)
+* Janhavi Agarwal (https://www.linkedin.com/in/janhavi-agarwal-19753119b/)
+* Chloris (Xiaoke) Jiang (https://www.linkedin.com/in/chlorisj/)
+* Jośe Casas (https://www.linkedin.com/in/josecasasn/)

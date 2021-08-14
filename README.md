@@ -114,7 +114,28 @@ We had a few limitaions when working on the projects. A few of them are listed b
 
 ## Bibliography
 
-Sample size: The sample size in our survey design is small, and a larger sample size will be more representative to our groups of interest. The links are posted below. (Some would be updated soon!):
+Sample size: The sample size in our survey design is small, and a larger sample size will be more representative to our groups of interest. The links are posted below:
+
+* Safety:
+  * https://open.toronto.ca/dataset/neighbourhood-crime-rates/
+  * https://open.toronto.ca/dataset/police-annual-statistical-report-dispatched-calls-by-division/
+  * https://open.toronto.ca/dataset/wellbeing-toronto-safety/
+
+* Diversity:
+  * https://open.toronto.ca/dataset/multilingual-policy-language-survey/
+  * https://open.toronto.ca/dataset/neighbourhood-profiles/
+  * https://open.toronto.ca/dataset/wellbeing-toronto-culture/
+  * https://open.toronto.ca/dataset/places-of-interest-and-toronto-attractions/ 
+
+* Economic Indicators:
+  * https://open.toronto.ca/dataset/civic-issue-questionnaire/ 
+  * https://open.toronto.ca/dataset/wellbeing-toronto-economics/
+  * https://open.toronto.ca/dataset/places-of-interest-and-toronto-attractions/
+  * https://open.toronto.ca/dataset/labour-force-survey/
+
+* Public Transit:
+  * https://open.toronto.ca/dataset/ttc-routes-and-schedules/
+  * https://open.toronto.ca/dataset/ttc-ridership-analysis/
 
 
 ## Meet Us

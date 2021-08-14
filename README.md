@@ -84,13 +84,14 @@ It is easy to get almost anywhere in Toronto using public transit, since it is a
 
 
 ## Summary
+Based on our conclusions on our 4 variables, these are the Toronto neighbourhoods we found would suit Lisa’s various needs. 
 
 ![alt text](https://github.com/alizaazizlakho/ISSC-Case-Comp/blob/main/images/16.png)
 
 
 
 ## Liveability Scoring Model
-
+Now we come back to this particular slide, in order to give Toronto a rank based on the Diversity, Safety, I&E and Public Transit in the city.
 ![alt text](https://github.com/alizaazizlakho/ISSC-Case-Comp/blob/main/images/17.png)
 ![alt text](https://github.com/alizaazizlakho/ISSC-Case-Comp/blob/main/images/18.png)
 

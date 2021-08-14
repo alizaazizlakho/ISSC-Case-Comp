@@ -19,7 +19,7 @@
 
 Our team ✨Statistically Significant✨ won the award for Best Presentation at the Independent Summer Statistics Community Case Competition. We geared our presentation towards young professionals looking to move to Toronto, and analyzed what the various factors a young professional would consider when making this decision. 
 
-[Case comp (dragged).pdf](https://github.com/alizaazizlakho/ISSC-Case-Comp/files/6987192/Case.comp.dragged.pdf)
+![alt text](https://github.com/alizaazizlakho/ISSC-Case-Comp/blob/main/images/1.pdf)
 
 ## Survey Results
 ## Meet Liza
